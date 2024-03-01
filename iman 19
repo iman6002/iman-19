@@ -1,0 +1,5 @@
+ go mod tidy
+
+screen -S tx
+
+go run main.go
